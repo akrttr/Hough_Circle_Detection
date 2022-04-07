@@ -1,4 +1,4 @@
-This code is written to image stitching using SIFT, SURF and ORB.
+This code is written for image stitching using SIFT, SURF and ORB.
 
 You can simply change the path inside of program.
 
